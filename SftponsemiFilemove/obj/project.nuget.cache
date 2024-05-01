@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdNUEENM+lst272tl3+SU8IeMoO45phiMi31fSi6rPm2mLtm1rRhUXtBD2D4unGt/RiDp6F06exzSas9H+y2Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ezer\\Desktop\\Program\\C#\\MVC #1\\MVC RazerPage - Copy\\SftponsemiFilemove\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezer\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
